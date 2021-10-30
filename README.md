@@ -2,12 +2,14 @@
 <div align="justify">
 Pmod module with multiple PDM microphones to enable array audio signal processing. Microphones are arranged in a linear array with a spacing of λ/2 at 3 kHz. The Pmod interface enables easy and straightforward evaluation with popular FPGA development boards. Used IM69D130 microphones have matched phase response (±2°) and small sensitivity tolerance (±1dB).
 </div>
+<br>
 
   - **Manufactured prototypes**
     <img src="img/brd_photo.jpg" alt="2x1_top" width="600"/>
 
 
  **Available configurations**:
+
   - **2x1**
 
     <img src="pmod_microphone_array_2x1/doc/top.jpg" alt="2x1_top" width="600"/>
