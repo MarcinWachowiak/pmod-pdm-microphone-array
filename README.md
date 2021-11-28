@@ -5,6 +5,7 @@ Pmod module with multiple PDM microphones to enable array audio signal processin
 <br>
 
   - **Manufactured prototypes**
+  
     <img src="img/brd_photo.jpg" alt="2x1_top" width="600"/>
 
 
